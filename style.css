@@ -134,7 +134,7 @@ h3 span {
     filter: grayscale(100%); 
     margin-right: 1.8rem;
     opacity: 0.6;
-    padding-bottom: 1.8rem;
+    padding-bottom: 1rem;
 }
 
 .stack a .angular {
@@ -215,6 +215,10 @@ footer p {
 	.card-description {
 		width: 100%;
 		float: left;
+	}
+
+	.stack a img {
+	    margin-right: 1.5rem;
 	}
 
 	.angular, .sass, .jquery, .git {
