@@ -114,12 +114,20 @@ h3 span {
 	background: #FFF4F6;
 }
 
+.hyperisland {
+	background: #f5f5f5;
+}
+
 .studi h3 a:hover {
 	color: #c2732b;
 }
 
 .kanjiday h3 a:hover {
 	color: #de5d59;
+}
+
+.hyperisland h3 a:hover {
+	color: #000;
 }
 
 .stack {
@@ -158,6 +166,23 @@ h3 span {
 .stack a .git {
 	width: 2.6rem;
     margin-bottom: 0.2rem;	
+}
+
+.stack a .analytics {
+	width: 3.5rem;
+}
+
+.stack a .css {
+	width: 2rem;
+}
+
+.stack a .sketch {
+	width: 3rem;
+}
+
+.stack a .arduino {
+	width: 3rem;
+	margin-bottom: 0.2rem;	
 }
 
 .stack a img:hover {
