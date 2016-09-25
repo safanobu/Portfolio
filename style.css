@@ -201,12 +201,14 @@ footer {
 	text-align: center;
 }
 
-footer .social a img {
-	width: 1.5rem;
+footer .footer-link {
+	color: #dc95e1;
+	font-weight: 600;
+	margin: 0 1rem;
 }
 
 footer p {
-	margin-right: 1.5rem;
+	margin-top: 2rem;
 }
 
 @media screen and (max-width: 1000px) { 
