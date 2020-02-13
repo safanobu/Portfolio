@@ -48,7 +48,7 @@ h3 span {
 }
 
 .cover {
-	background-image: url('img/cover.png');
+	background-image: url('assets/cover.png');
 	background-repeat: no-repeat;
 	background-size: cover; 
 	background-position: center top; 
@@ -106,16 +106,20 @@ h3 span {
 	float: left;
 }
 
+.epidemicsound {
+	background-color: #FDEEEC;
+}
+
 .studi {
-	background: #FBF4EC;
+	background-color: #FBF4EC;
 }
 
 .kanjiday {
-	background: #FFF4F6;
+	background-color: #FFF4F6;
 }
 
 .hyperisland {
-	background: #f5f5f5;
+	background-color: #f5f5f5;
 }
 
 .studi h3 a:hover {
@@ -156,7 +160,7 @@ h3 span {
 
 .stack a .underscore {
 	width: 5rem;
-    margin-bottom: 1rem
+    margin-bottom: 1rem;
 }
 
 .stack a .jquery {
@@ -183,6 +187,29 @@ h3 span {
 .stack a .arduino {
 	width: 3rem;
 	margin-bottom: 0.2rem;	
+}
+
+.stack a .python {
+	width: 2.5rem;
+}
+
+.stack a .react {
+	width: 3rem;
+}
+
+.stack a .docker {
+	width: 3rem;
+	margin-bottom: 0.5rem;
+}
+
+.stack a .aws {
+	width: 3rem;
+	margin-bottom: 0.2rem;	
+}
+
+.stack a .rabbitmq {
+	width: 6rem;
+	margin-bottom: 1rem;	
 }
 
 .stack a img:hover {
